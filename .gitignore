@@ -1324,3 +1324,8 @@ KitchenSink/KitchenSink.iOS/obj/project.assets.json
 KitchenSink/KitchenSink.iOS/obj/KitchenSink.iOS.csproj.nuget.g.targets
 KitchenSink/KitchenSink.iOS/obj/KitchenSink.iOS.csproj.nuget.g.props
 KitchenSink/KitchenSink.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+KitchenSink/KitchenSink.UITests/obj/Debug/KitchenSink.UITests.csprojAssemblyReference.cache
+KitchenSink/KitchenSink.UITests/obj/KitchenSink.UITests.csproj.nuget.cache
+KitchenSink/KitchenSink.UITests/obj/project.assets.json
+KitchenSink/KitchenSink.UITests/obj/KitchenSink.UITests.csproj.nuget.g.targets
+KitchenSink/KitchenSink.UITests/obj/KitchenSink.UITests.csproj.nuget.g.props
